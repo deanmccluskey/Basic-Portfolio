@@ -1,15 +1,37 @@
-.head {
 
-    align: center;
-    width: "80%";
+header {
+    background-color: white;
 }
 
-
-
-name {
-
-}
 hr {
     border: 1px solid grey;
 }
   
+footer {
+    border-top: 5px solid #1abc9c;
+    background-color: grey;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.banner {
+    background-color: yellow;
+    padding: 20px;
+    width: 80%;
+    align: center;
+}
+
+.myname {
+    text-align: left;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+.links {
+    
+    text-align: right;
+    color: grey;
+    font-size: 15px;
+}
